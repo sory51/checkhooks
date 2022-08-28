@@ -1,0 +1,12 @@
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px 3px;
+    grid-auto-flow: row;
+   
+    margin-top: 100px;
+    
+  }
+  body{
+    background: rgba(47, 231, 207, 0.815);
+    background: linear-gradient(90deg, rgb(65, 65, 73) 35%, rgba(98, 133, 209, 0.925) 100%);   }
